@@ -1,8 +1,5 @@
 # Python-Project-
 
-
-## Python
-
 - **Dodo Payments Dashboard**  
   https://github.com/GayasuddinMohd/dodo-payments-dashboard
 
